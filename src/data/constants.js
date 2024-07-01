@@ -295,20 +295,6 @@ export const Bio = {
       category: "web app",
       github: "https://github.com/harsh5206/Rainfall-Prediction",
       webapp: "",
-      member: [
-        {
-          name: "",
-          img: "",
-          linkedin: "",
-          github: "",
-        },
-        {
-          name: "",
-          img: "",
-          linkedin: "",
-          github: "",
-        },
-      ],
     },
     {
       id: 4,
@@ -343,20 +329,6 @@ export const Bio = {
         "https://cdn-icons-png.freepik.com/512/6784/6784512.png",
       tags: ["User Experience (UX) Design", "Gesture Recognition", "Mobile Application Development"],
       category: "web app",
-      member: [
-        {
-          name: "",
-          img: "",
-          linkedin: "",
-          github: "",
-        },
-        {
-          name: "",
-          img: "",
-          linkedin: "",
-          github: "",
-        },
-      ],
     },
     
   ];
