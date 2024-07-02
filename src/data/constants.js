@@ -329,6 +329,7 @@ export const Bio = {
         "https://hackaday.com/wp-content/uploads/2010/10/5045447395_e1ab2879d5_b-e1419092219631.jpg",
       tags: ["User Experience (UX) Design", "Gesture Recognition", "Mobile Application Development"],
       category: "web app",
+      github: "https://github.com/harsh5206/Smart-Gloves"
     },
     
   ];
