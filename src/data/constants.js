@@ -216,7 +216,6 @@ export const Bio = {
       desc1:"•	Managed and coordinated a team of three in data collection and preprocessing tasks, fostering collaboration, and ensuring effective project execution, contributing to more streamlined and efficient workflows.",
       skills: [
         "Data Analyst",
-        "Data Analyst",
         "Data Visualization Tools (e.g., Tableau, Power BI)",
         "Analytical Thinking",
         "Collaboration",
