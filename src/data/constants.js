@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning and a dedication to delivering high-quality results, I strive to integrate creativity and technical expertise into my projects. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things in  data science.",
     github: "https://github.com/harsh5206",
     resume:
-      "https://drive.google.com/file/d/1yMRrXxqFeGJbtpS97g-uxz6pQptazbyR/view?usp=drive_link",
+      "https://drive.google.com/file/d/1G53Cm4ndDYAKPF3b9Z_H6PkshQEixRCU/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/harsh52/",
     twitter: "https://x.com/Harsh520609",
     insta: "https://www.instagram.com/_harsh_5206/",
