@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning and a dedication to delivering high-quality results, I strive to integrate creativity and technical expertise into my projects. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things in  data science.",
     github: "https://github.com/harsh5206",
     resume:
-      "https://drive.google.com/file/d/1G53Cm4ndDYAKPF3b9Z_H6PkshQEixRCU/view?usp=sharing",
+      "https://drive.google.com/file/d/1E_g8OH337KWtbJ7qVxQPHFAFlBfG6nXm/view",
     linkedin: "https://www.linkedin.com/in/harsh52/",
     twitter: "https://x.com/Harsh520609",
     insta: "https://www.instagram.com/_harsh_5206/",
@@ -191,7 +191,7 @@ export const Bio = {
       img: "https://codezeesolutions.com/wp-content/uploads/2022/06/logo-dark.png",
       role: "Data Scientist",
       company: "Codezee Solutions Pvt.Ltd ",
-      date: "Dec 2021 - Feb 2022",
+      date: "Jul 2021 - Feb 2022",
       desc: "•	Developed predictive models to analyze user behavior, leading to a 25% increase in user interaction and a 15% reduction in churn rate, showcasing data-driven insights and a user-centric approach.",
       desc1:"•	Optimized data pipeline and database queries using SQL, ensuring seamless data flow and reducing data processing time by 20%, enhancing overall system performance through thorough analysis and precision.",
       skills: [
@@ -211,7 +211,7 @@ export const Bio = {
       img: "https://media.licdn.com/dms/image/C4E03AQGnwscL1o8i_Q/profile-displayphoto-shrink_200_200/0/1652869550739?e=2147483647&v=beta&t=ai4K0f_hbFwzX47vHHmXWCsTVLsmoUwTteXEyvN5vy8",
       role: "Data Analyst",
       company: "KP Webbate Technologies LLP ",
-      date: "May 2021 - June 2021",
+      date: "Jan 2021 - June 2021",
       desc: "•	Conducted comprehensive data analysis on e-commerce sales data, identifying trends and patterns that led to a 30% increase in sales and a 15% reduction in cart abandonment.",
       desc1:"•	Managed and coordinated a team of three in data collection and preprocessing tasks, fostering collaboration, and ensuring effective project execution, contributing to more streamlined and efficient workflows.",
       skills: [
