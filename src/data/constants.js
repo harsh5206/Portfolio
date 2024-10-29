@@ -192,8 +192,9 @@ export const Bio = {
       role: "Data Scientist",
       company: "Codezee Solutions Pvt.Ltd ",
       date: "Jul 2021 - Feb 2022",
-      desc: "•	Developed predictive models to analyze user behavior, leading to a 25% increase in user interaction and a 15% reduction in churn rate, showcasing data-driven insights and a user-centric approach.",
-      desc1:"•	Optimized data pipeline and database queries using SQL, ensuring seamless data flow and reducing data processing time by 20%, enhancing overall system performance through thorough analysis and precision.",
+      desc: "•	Engineered and fine-tuned machine learning models to predict user behavior, leading to a 25% boost in user engagement and a 15% decrease in churn rate. ",
+      desc1:"•	Spearheaded SQL-based optimization of data pipelines, cutting data processing time by 20%, significantly enhancing system performance and scalability.",
+      desc2:"•	Improved data quality through comprehensive data cleaning and validation processes, bolstering data accuracy and integrity across all analytical workflows.",
       skills: [
         "Data Scientist",
         "Predictive Modeling",
@@ -212,8 +213,9 @@ export const Bio = {
       role: "Data Analyst",
       company: "KP Webbate Technologies LLP ",
       date: "Jan 2021 - June 2021",
-      desc: "•	Conducted comprehensive data analysis on e-commerce sales data, identifying trends and patterns that led to a 30% increase in sales and a 15% reduction in cart abandonment.",
-      desc1:"•	Managed and coordinated a team of three in data collection and preprocessing tasks, fostering collaboration, and ensuring effective project execution, contributing to more streamlined and efficient workflows.",
+      desc: "•	Conducted in-depth analysis of e-commerce sales data, identifying key trends that drove a 30% increase in sales and a 15% reduction in cart abandonment.",
+      desc1:"•	Developed insightful and interactive data visualizations in Tableau and Power BI, making complex insights more easily interpretable and actionable for business stakeholders.",
+      desc2:"•	Partnered with cross-functional teams to align data insights with business objectives, streamlining data-driven decision-making and improving operational efficiency.",  
       skills: [
         "Data Analyst",
         "Data Visualization Tools (e.g., Tableau, Power BI)",
