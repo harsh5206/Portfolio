@@ -163,6 +163,9 @@ const ExperienceCard = ({ experience }) => {
                 {experience?.desc &&
                     <Span>{experience?.desc1}</Span>
                 }
+                {experience?.desc &&
+                    <Span>{experience?.desc2}</Span>
+                }
                 {experience?.skills &&
                     <>
                         <br />
