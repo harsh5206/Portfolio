@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning and a dedication to delivering high-quality results, I strive to integrate creativity and technical expertise into my projects. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things in  data science.",
     github: "https://github.com/harsh5206",
     resume:
-      "https://drive.google.com/file/d/1yMRrXxqFeGJbtpS97g-uxz6pQptazbyR/view?usp=drive_link",
+      "https://drive.google.com/file/d/1dOCbObjwMZ9Mv5Vw-zglsaBN6ama2FJq/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/harsh52/",
     twitter: "https://x.com/Harsh520609",
     insta: "https://www.instagram.com/_harsh_5206/",
@@ -188,6 +188,21 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRsI1s1CBcFMeaRfDyFgVCc-Bi5c4DpF57jQ&s",
+      role: "Data Analyst",
+      company: "Vosyn ",
+      date: "Jan 2025 - Jun 2025",
+      desc: "•	Collaborated with the Sales and Marketing team to analyze product data and customer interactions, uncovering business trends that reduces decision-making time by 15% and saved the company approximately $50K annually.",
+      desc1:"•	Streamlined data cleansing and transformation processes using Python and SQL, enhancing data accuracy and cutting manual intervention by 30%.",
+      skills: [
+        "Python ",
+        "SQL",
+        "Data Visualization Tools (e.g., Tableau, Power BI)",
+        "Team Collaboration"
+      ],
+    },
+    {
+      id: 1,
       img: "https://codezeesolutions.com/wp-content/uploads/2022/06/logo-dark.png",
       role: "Data Scientist",
       company: "Codezee Solutions Pvt.Ltd ",
@@ -207,7 +222,7 @@ export const Bio = {
       ],
     },
     {
-      id: 0,
+      id: 2,
       img: "https://media.licdn.com/dms/image/C4E03AQGnwscL1o8i_Q/profile-displayphoto-shrink_200_200/0/1652869550739?e=2147483647&v=beta&t=ai4K0f_hbFwzX47vHHmXWCsTVLsmoUwTteXEyvN5vy8",
       role: "Data Analyst",
       company: "KP Webbate Technologies LLP ",
