@@ -137,6 +137,7 @@ const ProjectCards = ({project,setOpenModal}) => {
                 <Date>{project.date}</Date>
                 <Description>{project.description}</Description>
                 <Description>{project.description0}</Description>
+<<<<<<< HEAD
                 <Description>{project.description1}</Description>
             </Details>
             <Members>
@@ -144,6 +145,10 @@ const ProjectCards = ({project,setOpenModal}) => {
                     <Avatar src={member.img}/>
                 ))}
             </Members>
+=======
+            </Details>
+            
+>>>>>>> 060d5cec808736a13a6367038a6ca5433722f8d3
             {/* <Button>View Project</Button> */}
         </Card>
     )

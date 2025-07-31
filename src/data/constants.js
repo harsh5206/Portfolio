@@ -188,6 +188,7 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
+<<<<<<< HEAD
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRsI1s1CBcFMeaRfDyFgVCc-Bi5c4DpF57jQ&s",
       role: "Data Analyst",
       company: "Vosyn ",
@@ -209,6 +210,17 @@ export const Bio = {
       date: "Dec 2021 - Feb 2022",
       desc: "•	Developed predictive models to analyze user behavior, leading to a 25% increase in user interaction and a 15% reduction in churn rate, showcasing data-driven insights and a user-centric approach.",
       desc1:"•	Optimized data pipeline and database queries using SQL, ensuring seamless data flow and reducing data processing time by 20%, enhancing overall system performance through thorough analysis and precision.",
+=======
+      img: "https://codezeesolutions.com/wp-content/uploads/2022/06/logo-dark.png",
+      role: "Data Scientist",
+      company: "Codezee Solutions Pvt.Ltd ",
+      date: "Jul 2021 - Feb 2022",
+      desc: "•	Engineered and fine-tuned machine learning models to predict user behavior patterns, resulting in a 25% boost in engagement and a 15% drop in churn rate. Applied advanced feature selection and regularization techniques to maximize model accuracy and user retention.",
+      desc1:"•	Spearheaded SQL-based optimization of complex data pipelines, reducing processing time by 20% and greatly enhancing system scalability and reliability. Streamlined transformations and automated ETL processes for faster, real-time analytics.",
+      desc2:"•	Enhanced data quality through comprehensive cleaning, validation, and transformation workflows, ensuring accuracy and integrity across analytics projects. This fostered higher confidence in insights for business-critical decisions.",
+      desc3:"•	Pioneered feature engineering methods that increased model robustness and interpretability, using domain-specific insights to create impactful features. These refinements enabled precise predictions and better decision-making for stakeholders.",
+      
+>>>>>>> 060d5cec808736a13a6367038a6ca5433722f8d3
       skills: [
         "Data Scientist",
         "Predictive Modeling",
@@ -222,6 +234,7 @@ export const Bio = {
       ],
     },
     {
+<<<<<<< HEAD
       id: 2,
       img: "https://media.licdn.com/dms/image/C4E03AQGnwscL1o8i_Q/profile-displayphoto-shrink_200_200/0/1652869550739?e=2147483647&v=beta&t=ai4K0f_hbFwzX47vHHmXWCsTVLsmoUwTteXEyvN5vy8",
       role: "Data Analyst",
@@ -232,6 +245,19 @@ export const Bio = {
       skills: [
         "Data Analyst",
         "Data Analyst",
+=======
+      id: 0,
+      img: "https://media.licdn.com/dms/image/C4E03AQGnwscL1o8i_Q/profile-displayphoto-shrink_200_200/0/1652869550739?e=2147483647&v=beta&t=ai4K0f_hbFwzX47vHHmXWCsTVLsmoUwTteXEyvN5vy8",
+      role: "Data Analyst",
+      company: "KP Webbate Technologies LLP ",
+      date: "Jan 2021 - June 2021",
+      desc: "•	Performed in-depth analysis of e-commerce sales data, uncovering purchasing trends and customer segments that led to a 30% sales increase and a 15% reduction in cart abandonment. Analyzed behavioral patterns to target high-value customer groups and optimize conversion strategies.",
+      desc1:"•	Created interactive data visualizations in Tableau and Power BI, translating complex insights into actionable visuals for business stakeholders. These visuals supported strategic decision-making by making patterns and trends interpretable.",
+      desc2:"•	Collaborated with cross-functional teams to integrate data insights with strategies, improving alignment and operational efficiency. This partnership drove data-informed initiatives that boosted ROI and streamlined processes.",
+      desc3:"•	Automated data workflows to expedite reporting by 30%, allowing the team to shift focus to more strategic, high-value analysis. This automation minimized manual data handling, improving the speed and accuracy of reporting.",  
+      skills: [
+        "Data Analyst",
+>>>>>>> 060d5cec808736a13a6367038a6ca5433722f8d3
         "Data Visualization Tools (e.g., Tableau, Power BI)",
         "Analytical Thinking",
         "Collaboration",
@@ -256,8 +282,13 @@ export const Bio = {
     },
     {
       id: 1,
+<<<<<<< HEAD
       img: "https://test.tcetmumbai.in/Images/TCET%20Logo.png",
       school: "Thakur College of Engineering and Technology, Mumbai, India",
+=======
+      img: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTEhIVFhUWGRUYGBUXGCAYHhgaGBUYGB8XGiAaHSggGhslHxsbIT0iJykrLi4vGR8zODMsNygtLisBCgoKDg0OGxAQGi0lICItKy0tLS0wLS0rLS0tLS0tLSstLS0tLSstLS0tLS0tLS0tKy0tLS0tLSstLS0tLS0tLf/AABEIANkA6AMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYDBAcBAgj/xABOEAACAQMCAgcEBgMMCQMFAAABAgMABBESIQUxBhMiQVFhcQcygZEUI0KhsfAzUsEVFiU1U2JykrTR4fEIJENzdIKys9I0k8JEY4Oio//EABkBAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EACgRAQACAgICAQQCAgMAAAAAAAABAgMRBCESMUETIjJRBRRikUJSYf/aAAwDAQACEQMRAD8A7jSlKBSlKBSlKBSlKBSlKD4kbAJPdUKvSa3YgpNE0YBZ21bqM6QQMbgtkZ7qmpBsa53b8AiSRbUGZ4pIFt9WN8xSvK3W4KlVIYKcAA61A513SIn2LHxXpdbRQyyrKjmNdRXOOe4BJHZzW3xji5itxKoRixjVdTaEzIwUEtgkLvzxnyqqz9GbyMSunVzyM6sijESqFiCKrKVKsAQDnY7cxk1aOkHD3mtjFqTWTESx2U6HRmx3jODUzFY0hhsulduQRI4RwcFdyG2zmMlRrGPLIwcgVsR9J7RsabhDkkDBzkg4IGBuQeY7qhp+jc7SxFroGOITYwCsmZEwHLg7seRxpGK+4OBT4Q9dCjxyTlBHHiPE2/WBNQIlGpxksQdbEjcYiYqbSU/Sm16svHMsh0kqqHJc6C4VfEsBt4861OD9MYJEJmeONwFYhXLqUddSyK2kZUjO5AwVb1qL4N0NaKIK0yiREtxE8f2Xjt2gYkNsQQx2OfnivYeiMnV9W8qlDHaxyIrFesWFHV4y2MqrFgcjc4wee86pr2LhY30cyh4nDoeTDka26jOERyRxhZXQsC2NOwVdR0oM89K4Ge+pDrB4j51XKX3SvgP5ivugUpSgUpSgUpSgUpSgUpSgUpSgUpSgV4a9rxqD818E4UslvFI7zF2XJPXOM5zvgNW4vA4+eZsf75//ACq0cK4YG4VZXCgalhVXHLIyQH9R+2sLW48/8q9XjRhyU9dsmW1on2rv7ixfrTd3+2kzv/zfdX0OEpjczEHu66TfH/PU48QPMD/A8/X9teGL0x4fd8fTvxWqMWKP+MKvO/7QY4NF4y/+9Jy+LVgl6OW7byIzHxaRz6KMt8asSxeG/wB538/znArwQ/Hy59/5/CnhiiPxg8rz8q3+9e0/kef89/T9b4V6ejVrjHU//sx/+XzqZs11F9ubAqM47OMAjPPJVt/hWwYx4HbGTjG357u6uMX0bxuIhNpvWdbV/wDe1bD/AGI28Sf7/wAnevP3tW2cCFfmT899/wBtWFYvifXv/Py+NFjOdh6dwz+wc9u6rPp4/wBQ587ftAfvdtv5Bfjk8q+j0fthuYV79yM/t+FWH6Py/wAt/D8PSpbo7wnrZckdiPBbfmfspjw5fCq8k4sdZtNYdVm8z7YvZfwgWvEZUVAgezhk0+GZWAz4nAFdaqjcKP8ADs+ef0GD/vPV6rxJt5TtuiNQUpSoSUpSgUpSgUpSgUpSgUpSgUpSgV43I17XjcjQUH2dAfuVZ5x+iGe/mTtWjxHh/VvjfTjKnlsdv8M/31vezg/wVZ/7sf8AUamry2EiaTjbdT4EYqrj8icWWf1KvJXcKa1tv8vLu+79nxrwW+Mfnv8Au/Z8alDb95z35B/PwrEI+de3GX/1nmqO6oDbv8Mb7bVjnUDBYkKWVTpbSe1nkfXv+NSxixzH5z+fu8a07nqy4T7a4kKnAGNLgZ3wd87DwrPy8vjimdrMVd2ak1s/VRhl0lCgwo5KQM5ycsM4xv3551lkgAPh9/55fGo/ha5OMudJUMMkZ0qpzjv8fL41OoA6h0zpYAjIxz7sGsP8Tnnxmsyu5WPuJhoC1Ge708e7Hn+fCvpYduX+X7fXvqRMHfXpgz+Hz2r1/qMngjfo5JGBk8gPjyHzq48OshDGI0xtglsZyx5n9lafCLID6wjx0evefltUmp8cch3Z7q8nncjy+yFtK6Q3B/48n8rGAeP+2er3VF4Ov8NzedhB/wB+T51eq4p+MNBSlK6ClKUClKUClKUClKUClKUClKUCvGr2vCKDnnsz/iq0/oH/AK2qykVW/ZqhXhlshxlOtQkcspK61Y87fOsGT8pQ1L6231Aevf3c61BD4jO/L9vrUse/PL/D7hWHqQDsPL8/31v4ufceMq5qjzDju22O33ft29fKozjNwIlDEOd07KLnXsx055jkd9+VWEoPMj8ageloAViJCjaU04IzkO3a33wM93jio507w9rMMasiBcKixsglCmc5UL2gzohAx9pNsAHGwGasNlCeqjJxnQnLf7IqCsJA4Jln0kXDfaAGkkEHBXlnO5q0cNjBhjIJIKrj5c6y/wAbaIvK7kR0wJD+FZY7TUcYHn6Z3rYMXd+f862AuNvT5Y/D8K9HNmmkMkVZABjYAAfnNOrIxsQPHFVG/wCL3/7qGyt2tVCwidY5AzGUZwUZh+jPhgHAwd+VRvCOhnEOulmvb1kd1bqhDK56p2bI2PYZFGRgg8+7FYJrM/daVkQs3Cf47m/4GD/vyVea510Rs3h4p1UkrTOvDoA0rc3P0mUk7749fCui1fX06KUpXQUpSgUpSgUpSgUpSgUpSgUpSgUpSg577PnH0CPPLrLofK5kA/CrD5eJ3+INVz2dfxenlNd/2mSrCVx5cvjvXn5J++UGsHkQTtnxHrjl419DvI279vzsageEt/CF8vfi3bbv+rI+f+FThJHxrmLeNtwabKxbcvz5VX+kseGykQaQIgVmUMoHWHK9ojGc4z51YrZweznfu9KrHSa8JneARNIgjUO3JR2tZDNrUA+6cDlgnlWnk5Ytid44+5Ea2UPtsbjYlEC6er93wzgHb9pq4cPj+qQYIGOR2IGSMEVU57li7r9GcMW1lxsvuaetXL6dJyMnu8KtHB70FI45XAlbU2gA5C6id/TfesnCyRS87W5u4bZjx5+v4/tqr9Pby4QWcdtMYGuLlYmkChjpKk7BgRzq0SPlvLHP899VTpufreF/8av/AG2rZOTzyM8QovDuhywcbWya4mbNuzidSY5FYgsCCp3xjkcg11bgvCRbow62SVndneSQ5Lty2A7KjbkAOVUbib46Vw/7kD/+L10gnn+e+q8tp1AiOGtnjcnf/B8P9plq7VSeG/x3J/wEP9plq7Vpp+MJKUpXYUpSgUpSgUpSgUpSgUpSgUpSgUpSg5z7O/8A0Cf7+7/tMlWBmABycKBue4Ad+e4edULh88icDlaJyjLLc4YHBH+uNnB8cd3fW1xPpRZ3REEknV25AabrNSGXuEI09rGcMTntYxvuKw3pvInx2xcO46iX010zIsE6xqCXAYYI0uy8+45A3UEVe3Yd3z5g8vDauR8cunvbk/R45ZVQaUA1uSo5v2ssoOQPDlU70L420Ej2t5IYgAoiWXs6GG5Qk7rkEYycc8Vxen6d2p106Drw23ifXuqldIOLSRSyK0eS7sxXco0bADVy7JAQDv8AtVarq8jiRpJDhEGXI7RxsNgN+8cvGqxw7iq8RimUYFxEX6tAOcbHsZGd9sBueCNudVZNzTox9Ttoi8KyadRLjvC6gRpyE3yME5GQPDHKtXjXSFeGIk0kDSTsNMJywTAUZZjnc8h47HGKlUgSS6iKajIyu5zgKqKAnaGMg404G2D8aifbigFhCBnT9IB27h1b7kD1qvjY4nJG1ma2o084T7ZrVyBdQSxHO7JiRflswHzqt9MfaaZrmEwRIYbWbrY2YnMpAxvt2QQTt6VHcE9nhki6yeXqywQpEoJk/TKjqyEatgynUAVGsaiBWe29n3V3qIZo3jEjkbFg5jlwtszKNAldQds4GlvCvXrjrHcQzvYumnX8Xg4lLbuigdWEjy+p1jYBVOBkksu3PcVvR+2m8WVy9vCYyTiLcFPLUNyfUVfra1hgMcMYgt4kuQVZ5Dok1KdbW2hshgxCZcnHLblVQ6d9EBNCJUgW1lMz/VsAZJ3kcKFZlOhSfeHIYY+pma1n3Atfs86Sw8Q4lJcRKykWcSPGw91xPITvyYHUDmupVxL2HcAuLO9uEuYjGz26Oqnnp60jPluK7bUxERHQUpSpClKUClKUClKUClKUClKUClKUClK8NBx/o9ww3XCHhU4Y3FyVBOAWW4Zgpx4/tFZIekEn0GBW4et1KkjW8yNGWZdKgq+FU8wRvy51t9EIuoe+tCTmC6Z1HImOdQ6nHhnIz5192fFjYXt1LLHK1vMI36xF1CNhsdQHIDvI5Vk8tZZiU1n4fHE+FWiXVzHFa3cHUQ9aZ7ZmxIOz9Ui7gt2vdHhUHedBGY5S5LhjEMyxOGJmXK9oZU4GMnkO81LcV6W2CnTFHdTgCTtLKyLmSQSNglgxOQMEDYHA76iJ+nMiOXtIREcMNUrtNs8hkOF1BR2idxnbAGw27t4wsr5JhuDyzWvUXE6Lp6wx9REUTFuMHrCV1nDZOBjUPGpK44UqPDcI8xkSAyBIYkiSYHTmPUVADEkEKxzgeRqL4enE7zD3N1LBFv2IwEZhzxgDb1Pwq2WXB1jUKoZlHIuS5P8ASZiST/fUR4+ohExMe2pAsaSOUjI1kan8fQdw79vGvOM23XW80cbhDJE6q2kPg45BW5k8vHepj6Bv6b+P551rvZkAY2O/w+e3hVX0fGd1RaIlRuC8VBj+sEsIRI4urDkSROWDdXF1wUkCNtbsW1fVg74r5n4xKbgaFdgXLSdVE8yQx7yo0fVJhlkwjZbLAs+NjvY+L8EtpmLywAytgGUZV9tgAy74xlT4g4NbdhaxQBlgRItTFmEYChmJxqwOZqy3KisdwrnpAWhturgJihaN5CyRRt9H6mzmAkPWAHE6F0UkcicelaVzbNI5gZWeW4dPp0kEbBJIZFbDZk1CE6VjGBgntEYJqa/evZ7BIeqUZBCMR1iMVJikye1F2V7PIYxyNSVlYQwhhCix68kqvI8gPQDwGAK5ty666Rt7wgj91SoOdNkg+AuGA/A/KrrVD6JqZOKXs49yGOG1HmwzM2fQvir5Wqn4w6KUpXQUpSgUpSgUpSgUpSgUpSgV5mhNc06S+0VhK0FiIjoOmS5lJ6tWzuiDbrGHfuAPhUTOux0yvCa5naWl9OcvxeZGP2Yoo1UbdwIJx8TWnxJeIWvaXi8r430ywI4PrjDfI1m/u4fLx8u3f07JHpyPonELa+P6GZRaTnuUli0Uh+JIyTyrfmfAKkd5BHMennVE4j0/kkikteIww3EUg0t1WY5ASdjGj5DuDuACNwK0bTpZcxxi2kjZLlF2lmQqZIjskgRvtYwDzzjxzXPIxfU1ariaTvpO8e6OWgbIZomOr6tCGzyGyn3RnzFZOE8LhtVe5k1ExKzM+MkKFyQgzgH8PGq7wclmLMSWPeTq1bjme+rXxVQ1o8Z/2zRQnG/6WZUbzzpJ+Vc46d9r9TWNLDZ2d5KMvMlshGoRxKJZBn9Z3GkHH2VU48akW4DOoLR8QuAw3+sCSIduTKUGB/RIPnUhBz5Y76zcal020zfqxSH5Ia1VhVO1Kt+ksrQCe4vobfsQs8a25YxmYZVSzOQxwD3Ctm44tMhbF9DIFlELBrVtpGIAQvE3ZySFzpO5FZH4NayWwE0Tkrb2ivpcKSEVivNhggu+5xz8qkGsreOWSTQ5ZDHISXG+NRVRlvdUux37znO1d6c7a1rN18CSlNDNnUmdWh1JVkyOZDAioe6uniPZGoZzg+vce7/PwqY4auk3cIx9XcOyrywsyJNnx95mqL4uMKfj+OPz8qzZKbWViJ9vLHjMUp0qdL89DHB5ZyP1h5isnFeMpbQyXD+7Gpb+k3JU372auc8YTLZGMg8wSCMeOPxFex8dvGWO5a0e8s7Z2wxXZ5guA8mASyx5PaC4yOe1Zqcbd9x6cXxancOu+zngr2tkom/TzM88x/8AuSnURvywNK/CrTXDbTplfXpB+lmJd9rdFUc+9n1MSPLHdtVrsejEUihpZ71j/wAVIOe/2SKvz83FhnVncY7TG3R6ZrjnHrpeHYKX1zATsoeYzau8nRKGyPP76s3Qbp4LpxBcFBMwJilT9HOo3OkE5RwOaEnxGavw5q5a+VXNqzHtfqUpVrkpSlApSlApSlApSlBCdMLOaWzuI7dykzRsEYHHaxyz3E8s+dcT6M23D0eKW6hlezMIWPUrSKlyrETJKq7iTJ7OdsEHvr9DYrnTL+53FSuMWnEjle5Y7sc+7HbABz4+lBE+zS80tLamKaNRme2WYYc27tjB3yQrZ3O+GFSfSxBv3eu2fz91ee0mGZIlvrZytza6stpDZhk2ddLbHT72D4VWOnj3VnFDcfuit5HcNpXVCi4BQt1itGQDsO8d9eXyf4+bZvq1low5daiVc6JdJEsrp55bT6SCezJq7cKb+4pGk5HofOuqca4bZcdtRJbzDrY945h78Tc+rkXmFPep9RXM+BdFQ6iSZx1LrkdXIoMZ5/Wlvd2z6HANLfgcluRdRX5iDvohlhVm6zcgNIBsE5jcHOK005ER9stGbjVnuk9vvh4kgnNrdJ1U69x2WUc9UR7weeP7qt011GjWmuRUUTdYxYhRiKKRt8/zitRKdNYbnNhx63XKHSLpNgrg41HSMxnzG3lit2+6DXShHj6niluvaiWVurkXONw6nTJy5nerfCN7hltaY+20LZH0qjA1JbXMg5asJCD5r9IkjLA+IBzWh0q6d2z2N1D245mgl0o4BySpAGqMsmc92ahrPjNnA2Lvhstmw2LzQGRDt73WAEEc99+VXCGe1vLaSKN4pIpEKMYWGwI393cMBvy/Cuotr3CuWC64/a4mC3Me6oqbsPdG+cDavu647bkylZkOtECnL8xzz2TpH41sLw8n3ry7bwIcLn/21G/+dRHGbiwt9ri9uA/8l9LlZz6Ij5+7G1deSNMy8Wikv5DDIxEtsre6Vw0EpB3YDJKyr/UrR41MNLHbbmfADB5n9tR1vdSSyB7HhV1IdJQXF1I8ShWxkASEkjluB3Cs190dSJPpPHbxDEPdtYyVj1Yzg765m25eu2K4tTydVtEKxwfgMnFZisTFLVT9Zc6f0m+8cOe/Gd+6rt0i6eWfDYRa2YWaWNRGsKHKpjb6xhkAjw5mqJ0m6a3V3otbSCS0tj2UiVSkkq8vsjspvyXPLc1js+BW1iC9wv0hoiFnt48FYlflMdstgd3dq3ri2WtOq+2imGb/AHWRvAeINLfmaQRhpgcrGuhAwAxgZO+F57123gykx7DP3fkVwnids9tcEYBKnrI3HusjElHXn2fL4Va7WSeXh1rNFe3RvLyUwIgcLGrB2DsVC4CqgJ+IrBn4c8qYtvS7kRXFERVK8P4lJ9Km4kOHyXls4a3haECR1WFsEiP9V31drP2Rt3VH9F+i7G8ghMIgkSdr6YRt/wCnibaG1JGAWJDE+AOPKupGSDh1jnlBbRdw3IUY2HiT95rQ9nfDpEtzcXA/1m8czy/zQ2NEfkFQAY9a9SlYrWIj4efMrdSlK7QUpSgUpSgUpSgUpSgVX+m/R0X1pJBnS+zRP+pIu6sCNxvt8asFeEUHM5bDjd0nUSJbWwZdMlyGMrEYwxVRgZO/z7qlOkHs3t7m2t7cSSxLaqREVIO+MamBHaO2e7mau+mvcUntL818b6PXXDHeO5QPBOAhnQbONQbA/k5Mjvzz76kbDipkna4hwJWAtbO2Jx1S4/SOORVRn1JrvPEbCOaNopkV42GGRhkEVxrpb7LZrYmfh5aWMYPUEnrEwc5ib7WMA4O+3fVGTDE+mzFyI9X/ANq/xDhaSqZNcQOoh3RtUEknPBzvDId+Y0nuI5V8cF47xDhEvVqcJ7zWkpyuG3yrZOknyPfuK+eG9I8sTI8kMmV1tEgGrTzWWFuyWOff+7apOC8S5MrOslwGlbTbNpLxq2+sEnUw1HGlW22rPF7Y5bZrTJH3dw6BwH2p8PuV0zsLaQ+9HP7vwc9kj1xWxe9CeHXP11qywSndZ7OQLk5zkhDpb5VzPinReCSSVLYOBAQkhK9YjNjOcatQ327+VQd50XaC6jhikUzPpwYnMZRiM6W3yu3fV1eTWfbFPD/6y6fZ2HFbqV7O5l6mK32mvIhoe6DDKhCRiPb3ivfVktOGcK4YvWf6vCTzlkcF2PP3nJZj5CuON0d4kyyKZZmVThkNyTqJJGR2tx6/Ko+Log2vDlFflgnrZCR3BE1HYY5/tFT/AGKfBHCtPczDpXSP2xRLlLCJp2/lXyka8+WRqY+W3rVT4ZcTXzS3VxKslxFjq9a5jhj0szPDEP0kgwMKfU1kHDIrVEkjhEs8aszRTtoJjXnKIcsSMHkSD2c4qG4v9TcrcW74En10DjA0g80KjYY93Hf8arnNa3pfi4tI9dyuJkdozAjTCVQsy3ExGGclWEDOTjLjB0p2RjG/Oq1xXpgod5beMJrBR5JgG7BJJiCrtjUSxYkknA5AVE3d1JeTdXBDI5JzHbITIsfkNsKu58Bg42rqHQb2VJEVn4hpllG6w844/XPvt9341zj4++5MmWmONe5U/oX7Obi/CyTtJBajsrqz1kqjlpB9xPM+eBvmupXPs/tvoiW1uXg6pzLDKrFnjlP28sdwc4K8qt6rXuK2xWIh52TJa87lz+46H8QujFHxC9hmtkkWR40hKGbRkhX7WMZwSAMV0AUxXtS4KUpQKUpQKUpQKUpQKUpQKUpQKUpQK+cV9UoKp0q6CWd92pY9E3dPH2XHqeTDyOa54PZ7fWErSwqt4hUgOumOeMkgh0EmpCwAx55NdurwiuZrFvbumS1fUvzJxHibRs8dxbyxxtcLORKhibUvMEgae0Pzuaj7zjfW3DXAYBjJ1i53xg7A45gbfLzr9TyQhtmAI8CM/jUFc9B+HSHL2FsSdyREoJ9SAKqnBWWmvNtX4cRg6S2wFyeqeOWfQz6Js6zrLFVIAMY3znfmRWCXpdEVZJI2RSsahopcSsqZOiR2BLqc/d8K7a3s74Wf/oIP6tbVh0K4fDvHZW6kfa6sE/NgTURx6n9z/FwW2ubm71JZWUhWT3mRWZnXIwrzPzTl3j9lWrgPsgupTqvZhCmd4ou0zerHZfgDXbEjwMDAA7gMCvsCra46wrtybz16RHR7o7bWUfV20KoveRuzHxZjux9alwK9pXbOUpSgUpSgUpSgUpSgUpSgUrxjioyw6Q2kzBYbqCVjkhY5FYnHPYHuoJSlat9xCKFdc0qRpnGp2CjJ7snbNaP76bLAb6ZbaSWAPXJglcZAOdyMj0oJilRg6Q2nVdd9Kg6rVo63rF0a/wBXVnGryrE/SmyGM3lsNShlzMm6nIDDfcHB38qCYpXwJBjORjnmoqPpRZNnTeWxwpc4mQ4VebHfZR40ExSoRul1gNjfWo//ADJ/5VMo4IyDkeIoPqlYuvXUV1DUACVzuASQCR4Eg/I1pX/HrWBtE9zDE2NWmSRUOnONWGI22O9BJUrXjvY2jEqyKYyuoSAgqVxnVnljzrRtektnIypHd27u/uqsqsW2zsAcnbeglqVEN0nsgXU3luCmdYMqApg6Tq37ODtvW3Z8UhlQvFNHIgzl0cMBgZOSDgbb0G5SoZelViV1C9tiuQurrkxkgkDOeZAJr399NlgH6ZbYbVg9cm+kgHG/dkZ8M0ExSo5uOWwhE5uIRC2AspkUISTgANnB32rA3SiyGM3lsMqHGZk3U5ww35HB38qCYpUVY9I7OZtEN3BI+CdKSqxwOZwDnFYP348Pxn6fa48euTH/AFUE5Ste1vI5FDxyK6HkyEMD6EbGtX93rXrTB9Jh65c5i6xdYwM7rnI235UElSoq86SWcTFJbuCNlAJV5VUgEZBIJyARvXk/SazRzG95bq45o0qhh8Cc0EtSoeHpTZNq03ls2hS7aZkOlRzY4OyjxrPYcctpmKQ3MMjAaisciuQM4yQpJxmgkaVH2XGreZ2SG4ikdPfVHViu+O0AcjcY3pQbzCuGdO0FjxKLikY0qt00M2nvXqojyH8wv64FdzY1zHpNaw8QseKQxSxu8c7SrpYEho4ojnyBwy58zQY/bmVk4fLjdYuocEctUsoUH4IG/r1pe0SBR0ahwijCWuMDGMldx9/zrR6XSFOjMYuJB18/0dsHZmwyaQBzOmNRv5VNdKLQ3nRtVtiJWSK3bCdonq9JZdt8gZ257CkixPboeB6dC6TaKdOBj9EKifa30eS6tljVBrSKaWPSO+MRnSPIjUMedbfDeLw3HCYooXV5JIUhEYPa14CEEc107kkjYCpninEIVv7WJ5Yw7JOAjMAWyI8DB8cH1wfCk+0fCE6Bcd+mcIt8kl2K2z775U4Y+R6savjVf/0fYE6q97I/T45Dlp5enlWf2Y8Eayu+IRyMFtreUNHq2AaRM6snwjIX4mtH/R+4hEIr0GVAeuD4ZgDo0+9g7486CE6B39lDw/iqXTRBTI4SNsZbskKEHM4OOXKulex+yuoeGRpdhg+pyiue0sZxpU+HecdwIrn/ALL+I2a2XFWuni6tpHOHxllZSBpB3OSdvOpToDxS4tODv9NlZHmlMVr1zEMOsCoG7W4QMWfyAJoll4N0hkXpE/WkCG9hAgwcgrGWCN8Ssm388Gvn/SJQfR7MkA/XkfDRyrR9q9lNaxWF3rtybSSNY1iDIWTAO5ZzqXsAbD7Ve+3TjMFxZ2EkMqsry6xgjOnR3juxnFQO1LGAMADHhjbHhXJfZdAo4xxfCqMOuNuWXfOPDNdZhlDKGVgyncMDkEHvFcp6IMLLjnEUuWEX0nEkLOdKyKCWOljsSNXLnsfCnyj4XaC1j6++JjU5EWrKjtDqeRyN65T0YuG4DfRJIxNhfRxsHbkjso3ONsqTg+KkHurqsd3Gq3l07hYWwBI2wKxxBS4z3atQHjjbnUPxLgEHFeDwxKyseqjaKUb6JFjAx6c1I9aQn5RfTi0ROCXwWNV+ulbAAG5uudaHFOji3XRiDSg6yKCOZCBvlRlht4rkfI91a14zp0VdLhisoLowkPaLrdEFd9ydvkKvnsykSThNoAVdRCqMAc7gYZT5+VBHdHeKi+4PbjALThLdxjkQSshHgQis2arntygjjHDcKiKs4GcABVGnbPcoxW77IeAy2019CxzDbzssIPPU6KS3r1egf8x8a0vb1exhuHqZFDLPrZcjIXs9ojw9aT7F54Wba9n+kw6CbWWSJJUAOsGFdYyOYDP3d61ReAzwQ9JOIda0UamIY1lVGcxE4ztnGauS8VtbacQW8kbSXlxrEaEHSOqXW5wdh9Xn1b1qg8OS2u+PcTt5JEaO4gKKcg5YdX7p/WG528KmfaPhKeyuznA4lJbhktZXf6GCNKlu3h0VuSnK4PLbyqF6IcfsbqyPCL+MW8/aQO641SkkiQsd1l1HfPM9++K3/Z30iltYbzhc7gXNmszQFvtKFLBRnng4YDwby2zdO7Dh3E7FrpFC3ukBUVcTGXC4hkQDUx3AyRsCCDig99pcA/dfgwZVPaIbbmQyeXKpP2u8Kjh4PesqjXLLHI7Y3JaeIc/JQF+FV7p1cCPiPBFnlTrIgvXHUDpJKDLeGSDueeDVp9uV0g4ROpdQzmHSuRlsTIxwO/YE1HwlJ9EOCxyWvD5yF1xwYzpHaWSLBQ+WcHv5VR+iMqcG4zdWUhCW0yGeJj3AAsADzxgOvqgrons/uUfh1qUZWAhjBKnOCFGVPgfKuee2i5gHEOFlmj1JMvWZIJVBLGe34LzO/nU/JDo/RDhxWJp5ECT3LGaQY3XVssZ/oIFX1DHvpU7BIGUMpBB5EHIPoRSiH2wrBHaqvuoq92wA28NhWxSiWB7VDjKKcbDIBwPAeFexQKvuqFyc7DG/jt8PlWalBrpaIpLKihvEKAfmBmjWqE6ii523wM7ct62KUGBoAQQygg8wRnOPHx/wr5NlH/Jp/VFbNKDWNjH/ACaf1R/dX1LbK3vIrc/eAPP1rPSgwPaqcZRTjYZA2Hl4V8/Qo/5NP6o9fCtmlB8RoAMAAAcgNgKxzWyvs6q2P1hn8az0oMLQKRpKgjbYjI25beVexwhRhVA78AAVlpQYXt1b3kU9+4B3r6ihVRhVAHgBjf4VkpQY9HPA57mvhrVCclFJO2SAT94rPSg1o7KNd1jRT4hQPwFBZRjGI0GNxhRt6bVs0oNc2yk5KKT44HpXptl1a9K6v1sDPhz9Kz0oNeS0Q5JjQ555UHPdvt4V69srY1IpxyyAcenhWelBhjt1XIVQM7kAYyfHb87V8taISSY1JPMlRk+Z23rYpQfESBQAAAB3DYD0pX3Sg//Z",
+      school: "University of Mumbai, India",
+>>>>>>> 060d5cec808736a13a6367038a6ca5433722f8d3
       date: "May 2018 - May 2022",
       grade: "3.3 GPA",
       desc: "•	Acquired a strong foundation in information technology, covering key areas such as programming, database management, and network security.",
@@ -273,6 +304,7 @@ export const Bio = {
       title: "Sentiment Analysis using LSTM",
       date: "Jan 2024 - May 2024",
       description:
+<<<<<<< HEAD
         "•	Developed LSTM-based sentiment analysis model for tweet classification into positive or negative sentiment, containing 1.6 million labeled tweets.",
       description0:
       "•	Engineered preprocessing pipeline for tweet data including lowercase conversion, tokenization, stopword removal, and stemming, ensuring data quality for model training.",
@@ -280,6 +312,13 @@ export const Bio = {
       "•	Designed model architecture with embedding layer, bidirectional LSTM, and dense layers, achieving 75% accuracy on test data.",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEs3QPRpUltj4xoDleF9jYuqb8v3ej4eGwMw&s",
+=======
+        "•	Developed an LSTM-based model for sentiment analysis on a dataset of 1.6 million tweets, achieving 75% accuracy by optimizing TensorFlow and NLTK for precise interpretation of sentiment nuances.",
+      description0:
+      "•	Designed a full-scale text preprocessing pipeline in Python with steps including tokenization, stemming, and sentiment-specific feature extraction, ensuring data quality and consistency to enhance model robustness and user interpretability.",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJhDxqnknL532tb3usCPP13d8PIiuKcUCmQ&s",
+>>>>>>> 060d5cec808736a13a6367038a6ca5433722f8d3
       tags: [
         "Python",
         "NLTK",
@@ -299,6 +338,7 @@ export const Bio = {
       title: "Rainfall Prediction in Australia",
       date: "Jan 2023 - May 2023",
       description:
+<<<<<<< HEAD
         "•	Led the development of an advanced predictive model for Australian rainfall, integrating diverse machine-learning algorithms, achieving a 25% boost in accuracy, enhancing resource allocation and disaster response.",
       description0:
       "•	Utilized Python for data cleaning, preprocessing, and visualization, ensuring data integrity and enhancing predictive model accuracy for a robust rainfall prediction system, resulting in a 15% accuracy boost.",
@@ -306,10 +346,18 @@ export const Bio = {
       " ",
       image:
         "https://www.eldoradoweather.com/forecast/australia/australia-annual-rainfall.png",
+=======
+        "•	Created an advanced rainfall prediction model that elevated accuracy by 25% through targeted data cleaning, feature selection, and visualization techniques, utilizing Python libraries such as Pandas and Matplotlib to refine inputs.",
+      description0:
+      "•	Executed in-depth exploratory data analysis (EDA) to identify patterns in rainfall and significant climate factors, enabling the model to adapt to seasonal fluctuations and improve predictive reliability for diverse regions in Australia.",
+      image:
+        "data:image/png;base64,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",
+>>>>>>> 060d5cec808736a13a6367038a6ca5433722f8d3
       tags: ["R Studio", "Machine Learning", "Data Cleaning and Preprocessing", "Data Visualization"],
       category: "web app",
       github: "https://github.com/harsh5206/Rainfall-Prediction",
       webapp: "",
+<<<<<<< HEAD
       member: [
         {
           name: "",
@@ -324,15 +372,23 @@ export const Bio = {
           github: "",
         },
       ],
+=======
+>>>>>>> 060d5cec808736a13a6367038a6ca5433722f8d3
     },
     {
       id: 4,
       title: "Movie Recommendation",
       date: "Sept 2022 - Dec 2022",
       description:
+<<<<<<< HEAD
         "•	Developed a movie recommendation system, achieving high accuracy through thorough analysis of training sets, demonstrating a deep understanding of machine learning concepts and practical applications, leading to a 20% increase in user satisfaction.",
       description0:
       "•	Applied Latent Class Analysis (LCA), Page Rank, and Tensor Decomposition on IMDB Movie Lens database to enhance movie recommendation engine, resulting in a 50% increase in user engagement and doubling user retention rate.",
+=======
+        "•	Constructed a personalized recommendation system using Latent Class Analysis and Tensor Decomposition, increasing user engagement by 50% by precisely aligning movie recommendations with viewer preferences and interaction history.",
+      description0:
+      "•	Improved the system's efficiency with an optimized SQL and Python data ingestion pipeline, handling large-scale datasets seamlessly; crafted visual summaries with Matplotlib and Seaborn to provide stakeholders with actionable insights on user behavior trends.",
+>>>>>>> 060d5cec808736a13a6367038a6ca5433722f8d3
       image:
         "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940",
       tags: [
@@ -355,6 +411,7 @@ export const Bio = {
       description0:
       "•	Implemented a supplementary feature displaying messages on connected mobile phones through Bluetooth, showcasing technology's cost-effectiveness and high advantages, leading to a 25% improvement in user satisfaction.",
       image:
+<<<<<<< HEAD
         "https://cdn-icons-png.freepik.com/512/6784/6784512.png",
       tags: ["User Experience (UX) Design", "Gesture Recognition", "Mobile Application Development"],
       category: "web app",
@@ -372,6 +429,12 @@ export const Bio = {
           github: "",
         },
       ],
+=======
+        "https://hackaday.com/wp-content/uploads/2010/10/5045447395_e1ab2879d5_b-e1419092219631.jpg",
+      tags: ["User Experience (UX) Design", "Gesture Recognition", "Mobile Application Development"],
+      category: "web app",
+      github: "https://github.com/harsh5206/Smart-Gloves"
+>>>>>>> 060d5cec808736a13a6367038a6ca5433722f8d3
     },
     
   ];
@@ -382,4 +445,8 @@ export const Bio = {
     { year: 2019, text: "Founded JavaScript Mastery" },
     { year: 2020, text: "Shared my projects with the world" },
     { year: 2021, text: "Started my own platform" },
+<<<<<<< HEAD
   ];
+=======
+  ];
+>>>>>>> 060d5cec808736a13a6367038a6ca5433722f8d3

@@ -111,7 +111,11 @@ const Contact = () => {
         </SocialLinks>
         <ContactInfo>
           <div><FaEnvelope /> harshmangukiya2000@gmail.com</div>
+<<<<<<< HEAD
           <div><FaPhone /> +91 8291174561 </div>
+=======
+          <div><FaPhone /> +1(540)-824-8752</div>
+>>>>>>> 060d5cec808736a13a6367038a6ca5433722f8d3
         </ContactInfo>
       </Wrapper>
     </Container>

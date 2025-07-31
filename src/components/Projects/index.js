@@ -140,7 +140,11 @@ const Projects = ({openModal,setOpenModal}) => {
                 <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
               ))}
             {projects
+<<<<<<< HEAD
               .filter((item) => item.category == toggle)
+=======
+              .filter((item) => item.category === toggle)
+>>>>>>> 060d5cec808736a13a6367038a6ca5433722f8d3
               .map((project) => (
                 <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
               ))}
